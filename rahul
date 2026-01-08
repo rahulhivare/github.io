@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rahul Bhimrao Hiware</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #0f172a;
+            color: #e5e7eb;
+        }
+        header {
+            padding: 40px;
+            text-align: center;
+            background: #020617;
+        }
+        section {
+            padding: 40px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #38bdf8;
+        }
+        .card {
+            background: #020617;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #020617;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Rahul Bhimrao Hiware</h1>
+    <p>Embedded Systems | IoT | Robotics Trainer</p>
+</header>
+
+<section>
+    <div class="card">
+        <h2>About Me</h2>
+        <p>
+            I am an Embedded Systems and IoT Trainer with 12+ years of experience.
+            I deliver corporate, college, and school-level workshops in Embedded C,
+            STM32, MSPM0, IoT, and Robotics.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Skills</h2>
+        <ul>
+            <li>Embedded C, C Programming</li>
+            <li>STM32, MSPM0, 8051</li>
+            <li>IoT (AWS, Azure, MQTT)</li>
+            <li>Robotics & Automation</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Experience</h2>
+        <p>
+            • 12+ Years Teaching Experience<br>
+            • Corporate & College Workshops<br>
+            • Curriculum Design & Trainer
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Contact</h2>
+        <p>
+            📧 Email: your-email@gmail.com <br>
+            🔗 LinkedIn: linkedin.com/in/yourprofile
+        </p>
+    </div>
+</section>
+
+<footer>
+    © 2026 Rahul Bhimrao Hiware
+</footer>
+
+</body>
+</html>
